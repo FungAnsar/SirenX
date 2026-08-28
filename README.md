@@ -78,6 +78,8 @@ More information:
 
 [SirenX Website →](https://mossca.app/sirenx/)
 
+[Version History →](CHANGELOG.md)
+
 ## Feedback & Issues
 
 Bug reports, compatibility reports, and feature suggestions are welcome.
