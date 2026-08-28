@@ -4,6 +4,14 @@
 
 No ads. No account. No subscription. No hidden purchases.
 
+<table>
+  <tr>
+    <td width="33.33%"><img src="assets/sirenx-library.png" alt="SirenX music library"></td>
+    <td width="33.33%"><img src="assets/sirenx-album.png" alt="SirenX album view"></td>
+    <td width="33.33%"><img src="assets/sirenx-now-playing.png" alt="SirenX now playing"></td>
+  </tr>
+</table>
+
 SirenX is built for people who keep their own music collections and want
 a simple way to listen to them on iPhone.
 
