@@ -80,7 +80,7 @@ It is designed around one thing: listening to your own music collection.
 
 SirenX is available free on the Apple App Store.
 
-[Download SirenX →](https://apps.apple.com/us/app/sirenx-hi-res-music-player/id6757968535?uo=4)
+[Download SirenX →](https://apps.apple.com/cn/app/sirenx-%E6%9E%81%E7%AE%80%E7%A6%BB%E7%BA%BF%E6%97%A0%E6%8D%9Fhi-res%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/id6757968535?uo=4)
 
 More information:
 
