@@ -80,11 +80,11 @@ It is designed around one thing: listening to your own music collection.
 
 SirenX is available free on the Apple App Store.
 
-[Download SirenX →](https://mossca.app/sirenx/)
+[Download SirenX →](https://mossca.app/sirenx/?utm_source=github&utm_medium=referral)
 
 More information:
 
-[SirenX Website →](https://mossca.app/sirenx/)
+[SirenX Website →](https://mossca.app/sirenx/?utm_source=github&utm_medium=referral)
 
 [Version History →](CHANGELOG.md)
 
