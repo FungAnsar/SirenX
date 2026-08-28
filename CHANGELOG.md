@@ -8,7 +8,25 @@ forward.
 SirenX is distributed free through the Apple App Store. GitHub Releases do not
 include application installers.
 
+## Current Version
+
+### 1.8 — 2026-08-22
+
+- Added support for music servers, including Navidrome.
+- Added Last.fm scrobbling for listening-history tracking.
+- Added DSD support.
+
 ## Earlier Releases
+
+### 1.7 — 2026-07-29
+
+- Added headphone tuning profiles with custom EQ curves.
+- Refined the Artist view and Now Playing experience.
+
+### 1.6 — 2026-07-27
+
+- Added CarPlay support.
+- Added iOS local-file import.
 
 ### 1.5 — 2026-06-23
 
