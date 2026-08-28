@@ -1,0 +1,86 @@
+name: Bug report
+description: Report a reproducible problem or a compatibility issue.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve SirenX. Please do not include passwords, tokens, server credentials, private URLs, or other sensitive information in this public report.
+  - type: input
+    id: sirenx-version
+    attributes:
+      label: SirenX version
+      description: Find this in SirenX Settings or the App Store.
+      placeholder: "For example: 1.6"
+    validations:
+      required: true
+  - type: input
+    id: iphone-model
+    attributes:
+      label: iPhone model
+      placeholder: "For example: iPhone 16 Pro"
+    validations:
+      required: true
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS version
+      placeholder: "For example: iOS 18.6"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the problem. Remove or redact any private information.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: dropdown
+    id: music-source
+    attributes:
+      label: Music source
+      options:
+        - Local
+        - SMB
+        - WebDAV
+        - Navidrome
+        - Jellyfin
+        - Emby
+        - Plex
+        - Other / not applicable
+    validations:
+      required: true
+  - type: input
+    id: audio-format
+    attributes:
+      label: Audio format (optional)
+      placeholder: "For example: FLAC 24-bit/96 kHz, DSF, or WAV"
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
+      description: Add screenshots, redacted logs, or other useful context. Do not include passwords, tokens, credentials, or private URLs.
